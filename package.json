@@ -5,9 +5,13 @@
   "main": "Ejercicio1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Ejercicio1.js"
+    "start": "node Ejercicio1.js",
+    "start1": "node Ejercicio2.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "logplease": "^1.2.15"
+  }
 }
